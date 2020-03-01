@@ -1,0 +1,55 @@
+.left{
+  width: 250px;
+  height: 800px;
+  background-color: #d7fffd;
+  display: inline-block;
+  position: relative;
+
+}
+.img1{
+  width: 150px;
+  height: 150px;
+position: relative;
+left: 50px;
+padding-top: 20px;
+
+}
+.name{
+  position: relative;
+  left: 50px;
+  font-style: oblique;
+
+}
+.myself{
+  font-family: sans-serif;
+}
+.home{
+  position: relative;
+  left: 90px;
+
+}
+.info{
+  position: relative;
+  left: 90px;
+}
+.kkk{
+display: inline-block;
+position: relative;
+bottom: 250px;
+left: 50px;
+
+
+
+  }
+  body{
+    margin: 0px;
+    margin-top: 0px;
+  }
+  .sub{
+    font-size: 50px;
+  }
+.par{
+  font-size: 20px;
+  font-family:cursive;
+
+}
